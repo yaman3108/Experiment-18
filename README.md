@@ -129,8 +129,8 @@ int main(){
 }
 ```
 ### Output:
-<img width="1092" alt="Screenshot 2024-10-21 at 9 26 48 AM" src="https://github.com/user-attachments/assets/0dbd147f-799c-432f-b54b-de413aef662d">
+<img width="938" alt="Screenshot 2024-10-21 at 1 47 32 PM" src="https://github.com/user-attachments/assets/3682dc49-376e-46d8-8664-9f58856ad6d4">
 
 
 ## Conclusion:
-This program helps us understand how exceptional handling works in C++. The working of the different keywords like try,throw and catch are also explained in this program.
+This program helps us understand how stacks can be implemented using arrays. We learnt the different commands/keywords used in stacks such as push, pop and peek.
